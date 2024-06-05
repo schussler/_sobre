@@ -1,7 +1,4 @@
-- 👋 Hi, I’m  douglas schussler
-- 👀 I’m interested in  aprender a programar;
-- 🌱 I’m currently learning  logica de programaçao em  python;
-- 💞️ I’m looking to collaborate on  algo que complemente meus estudos
+
 - 📫 How to reach me ...@schussler_01  (instagram)
 
 <!---
